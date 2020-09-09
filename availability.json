@@ -1,7 +1,6 @@
 {
   "available": "yes",
   "max": 1.8,
-  "txt": 1.1,
-  "col": 1.1,
+  "txt_col": 1.1,
   "min": 1.0
 }
